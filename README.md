@@ -10,8 +10,7 @@ B.Tech graduate in **Artificial Intelligence & Data Science**, passionate about 
 
 * Python
 * SQL
-* C++
-* JavaScript
+* python llbraries
 
 **Data Analytics & Visualization**
 
